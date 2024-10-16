@@ -10,9 +10,9 @@ h1 {
 }
 
 .marker{
-    width: 400px;
+    width: 380px;
     height: 50px;
-    margin: 10px auto;
+    margin: 20px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,4 +46,79 @@ h1 {
 .fearless{
     background: #7BA6DE;
     box-shadow: 0 0 20px 0 #7BA6DE;
+}
+
+.txt{
+    background: #7bcafd;
+    box-shadow: 0 0 20px 0 #7bcafd;
+}
+
+.zb1{
+    background: #63b2f2;
+    box-shadow: 0 0 20px 0 #63b2f2;
+}
+
+.ateez{
+    background: #2c531f;
+    box-shadow: 0 0 20px 0 #2c531f;
+}
+
+.enhypen{
+    background: #ff653f;
+    box-shadow: 0 0 20px 0 #ff653f;
+}
+
+.skz{
+    background: #00239b;
+    box-shadow: 0 0 20px 0 #00239b;
+}
+
+.chungha{
+    background: #d184ae;
+    box-shadow: 0 0 20px 0 #d184ae;
+}
+
+.dream{
+    background: #892b29;
+    box-shadow: 0 0 20px 0 #892b29;
+}
+
+.idle{
+    background: #580e8b;
+    box-shadow: 0 0 20px 0 #580e8b;
+}
+
+.astro{
+    background: #8e0495;
+    box-shadow: 0 0 20px 0 #8e0495;
+}
+
+.got7{
+    background: #8adc64;
+    box-shadow: 0 0 20px 0 #8adc64;
+}
+
+.rv{
+    background: #ffd1c2;
+    box-shadow: 0 0 20px 0 #ffd1c2;
+}
+
+.twice{
+    background: #fc5d9d;
+    box-shadow: 0 0 20px 0 #fc5d9d;
+}
+
+.iu{
+    background: #bffe00;
+    box-shadow: 0 0 20px 0 #bffe00;
+}
+
+.svt{
+    background: #f7c9cb;
+    box-shadow: 0 0 20px 0 #f7c9cb;
+}
+
+.omg{
+    background: #efe59d;
+    box-shadow: 0 0 20px 0 #efe59d;
 }
