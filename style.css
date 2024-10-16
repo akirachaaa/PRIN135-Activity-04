@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-family: Oswald;
+}
+
+.container{
+    background-color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.marker{
+    width: 400px;
+    height: 50px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mcap{
+    width: 80px;
+    height: 50px;
+}
+
+.msleeve{
+    width: 220px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 20px double rgba(0, 0, 0, 0.75);
+}
+
+.mlabel{
+    font-family: Oswald;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px;
+    margin: auto;
+}
+
+.mcap,
+.msleeve{
+    display: inline-block;
+}
+
+.fearless{
+    background: #7BA6DE;
+    box-shadow: 0 0 20px 0 #7BA6DE;
+}
