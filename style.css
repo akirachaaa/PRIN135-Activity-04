@@ -3,7 +3,7 @@ h1 {
 }
 
 .container{
-    background-color: blue;
+    background-color: white;
     padding: 10px 0;
     text-align: center;
 }
@@ -32,4 +32,9 @@ h1 {
 .mcap,
 .msleeve{
     display: inline-block;
+}
+
+.fearless{
+    background: #7BA6DE;
+    box-shadow: 0 0 20px 0 #7BA6DE;
 }
